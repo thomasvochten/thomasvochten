@@ -1,5 +1,5 @@
 ###  (•_•) Hi there!
-- 🐱‍💻 I'm Thomas, a technolgy evangelist working within the Microsoft cloud ecosystem.
+- 🐱‍💻 I'm Thomas, a technology evangelist working within the Microsoft cloud ecosystem.
 - 📢 Microsoft MVP since 2013 - which basically means I like to talk a lot.
 - 👩‍💻 Not much of a developer, does PowerShell count?
 - 💻 I've got a website at https://thomasvochten.com

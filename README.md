@@ -1,7 +1,7 @@
 ###  (•_•) Hi there!
 - 🐱‍💻 I'm Thomas, a technology evangelist working within the Microsoft cloud ecosystem.
 - 📢 Microsoft MVP since 2013 - which basically means I like to talk a lot.
-- 👩‍💻 Not much of a developer, does PowerShell count? PowerShell is code too.
+- 👩‍💻 Not much of a developer, does PowerShell count? PowerShell is code too!
 - 💻 I've got a website at https://thomasvochten.com
 - 🧔 I should probably change my profile picture.
 

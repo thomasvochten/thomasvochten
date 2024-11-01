@@ -8,4 +8,5 @@
 You can find all session slides, samples and other resources in my [talks repository](https://github.com/thomasvochten/talks)
 
 ### Let's connect
-<a href="https://www.linkedin.com/in/thomasvochten"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a> <a href="https://twitter.com/thomasvochten"><img src="https://img.shields.io/twitter/follow/thomasvochten?label=Twitter&style=social" alt="Twitter"></a>
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thomasvochten)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)](https://bsky.app/profile/thomasvochten.com)
